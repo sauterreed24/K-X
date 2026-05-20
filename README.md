@@ -1,2 +1,2 @@
 # K-X
-Space Situational Awareness (SSA) and Threat Intelligence Platform
+Automated Weapons Engagement Optimizer (Drone Swarms/Warfare)
